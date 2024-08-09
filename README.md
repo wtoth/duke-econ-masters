@@ -23,7 +23,7 @@ Inappropriate Information:
 - Hints or information that would constitute cheating
 
 ## How to Contribute
-To contribute to this page please submit a pull request.
+To contribute to this page please submit a pull request or reach out to Billy Toth at his Duke email.
 <br>
 A standard workflow for this would be
 - Clone down the repository to your local machine.<br> `git clone https://github.com/wtoth/duke-econ-masters.git`
