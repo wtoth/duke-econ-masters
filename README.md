@@ -10,6 +10,9 @@ This is a Collection of Resources based on personal experiences with the intenti
 ## What this is not
 This page is not a course guide or collection of reviews. For all academic advice (especially for Ph.D Admissions planning) we recommend always speaking to your Academic Advisors or Director of Graduate Studies.
 
+## Students who took time off or come from a less quantitative background
+Please refer to [this](returning_students.md) page.
+
 ## Contributing
 This page is dedicated to objective reporting on courses rather than personal reviews and opinions of individual courses and professors. We will reject pull requests that do not contain information pertaining to success in these courses.<br>
 Appropriate Information:
