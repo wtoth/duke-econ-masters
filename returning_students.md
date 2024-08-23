@@ -16,7 +16,7 @@ Third, for general review I always recommend looking at MIT’s OpenCourseware (
 
 ## Calculus
 - Khan Academy – For a speed run review of calculus Khan Academy is a great resource in both its explanations and forced practice. Biggest weakness is that the questions are not always super rigorous. 
-- Paul’s Math Notes – This is a collection of notes, practice problems, assignments for the standard calculus sequence. This is more rigorous than Khan Academy
+- [Paul’s Math Notes](https://tutorial.math.lamar.edu/) – This is a collection of notes, practice problems, assignments for the standard calculus sequence. This is more rigorous than Khan Academy
 - Mathematics for Economists by Simon and Blume – This is an econ specific resource directed towards older undergrads. Most of this is very applied so it isn’t all applicable to the work you would do during your master’s but can be a good review. Additionally, there is a good amount of optimization and concavity later on which will be helpful for microeconomics (601)
 
 ## Linear Algebra
