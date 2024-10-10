@@ -11,6 +11,7 @@ Resources
 ## Econ 608 - Introduction to Econometrics 
 This is a masters level reintroduction to Econometrics focusing on a more rigorous construction of econometrics than in undergraduate courses. The main skills necessary for this course are probability, statistics, linear algebra, and stata. 
 Resources
+- [Probability Online Textbook](https://www.probabilitycourse.com/) - Free online Probability Book
 - [Harvard Stats 110](https://projects.iq.harvard.edu/stat110/youtube) – A strong refresher for anyone who hasn't taken probability in a while.
 - [MIT Intro to Stats for Economics](https://ocw.mit.edu/courses/14-30-introduction-to-statistical-methods-in-economics-spring-2009/) – This is a much more rigorous intro to stats via MIT. There are no lecture videos but they have some very concise, albeit tough, lecture notes.   
 - [Ben Lamberts youtube series](https://www.youtube.com/watch?v=M_5SLG7sUa0) – Although this series is directed at undergraduates I found it to be helpful for understanding the intuition of what is taught in econ 608. Note: he also has a graduate level series more similar to what is learned in econ 703. 
